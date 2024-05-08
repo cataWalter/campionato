@@ -1,0 +1,6 @@
+﻿8.	Stampare in pdf la classifica generale del campionato e per gli sport che lo prevedono anche la classifica individuale per atleta.
+9.	Dato un atleta stampare in pdf il suo profilo.
+
+
+Modifica dati di giocatori / squadre / partite
+https://www.youtube.com/watch?v=Uoz4NS15lj8
